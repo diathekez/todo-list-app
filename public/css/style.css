@@ -1,6 +1,15 @@
-html, body, header, footer{
+/* html, body, header, footer{
     background-color: #FBAB7E !important;
     background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%) !important;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Buda&display=swap');
+
+body{
+    background-image: url("low-poly-grid-haikei.svg");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Buda', monospace;
 }
 
 h1{
